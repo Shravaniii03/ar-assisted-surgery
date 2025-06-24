@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="heart_image_target" size="10.000000 9.836423" />
+  </Tracking>
+</QCARConfig>

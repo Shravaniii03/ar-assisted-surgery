@@ -1,0 +1,10 @@
+# ninja log v5
+1008	51866	7721033424065931	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	96016d4ec20a5c14
+612	52026	7721033428161269	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4922bb9543dfdda9
+1427	53416	7721033440685461	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	321580a3f0320708
+114	53821	7721033444113151	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4e4f30e3e62dc19
+2	54864	7721033456952120	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	402eaddb77578df1
+2531	55138	7721033461481739	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4f9bb971e7af0c38
+451	56133	7721033470523020	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b936142faeba94da
+273	56691	7721033476492828	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b2ac80ea7e111a46
+56693	58575	7721033494742033	C:/Users/shrav/OneDrive/Documents/cave/ar_assisted_surgery/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3f2c2112/obj/arm64-v8a/libgame.so	cdb1b9d873a7c2bd
